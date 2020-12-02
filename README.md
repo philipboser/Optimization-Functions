@@ -19,7 +19,7 @@ A sample function has been included with this repository.
 
 ![Sample Function](Images/function.png)
 
-This function is a classical egg carton function which are commonly used to test optimization problems due to their many local minimums in which optimization algortithms can get stuck:
+This function is a classical egg carton function with a global minimum at (0,0). These types of functions are commonly used to test optimization problems due to their many local minimums in which optimization algortithms can get stuck:
 
 ![Sample Function Plot](Images/ExFunct.png)
 
