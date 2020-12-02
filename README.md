@@ -27,4 +27,8 @@ Here you can see what convergence might look like for each algorithm (the algori
 
 ![Particle Swarm](Images/particleswarm.png)
 
-![Simulated Annealing](simulatedannealing/ExFunct.png)
+**Particle Swarm**
+
+![Simulated Annealing](simulatedannealing/simulatedannealing.png)
+
+**Simulated Annealing**
