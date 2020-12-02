@@ -4,7 +4,7 @@
 
 The fundamental idea behind PSO is to initialize many particles in order to search for the minimum. Each particle has an initial velocity and position. As the iterations continue, the velocity of each particle is pulled toward the known minimum of the group, so they gradually search closer to the global minimum.
 
-More complex PSO algorithms will create subgroups in order to search around different local minimums for a global minimum, this has not been implemented in this code but could be a future improvement.
+More complex PSO algorithms will create subgroups in order to search around different local minimums for a global minimum. This has not been implemented in this code but could be a future improvement.
 
 **Simulated Annealing**
 
